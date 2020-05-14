@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
+
 from cirr.skeleton import fib
 
 __author__ = "LaurenÈ›iu Andronache"
